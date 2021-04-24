@@ -1,7 +1,8 @@
-# Basic-Lti-Demo
+# Oauth-Lti-Demo
 
 ## What is it?
-A demo of basic LTI authentication in Spring Web MVC, not requiring the deprecated Spring-Security-Oauth
+A demo of basic LTI authentication in Spring Web MVC, not requiring the deprecated Spring-Security-Oauth. This app also demonstrates requesting
+an oauth authentication from GitHub in order to perform functions for the users.
 
 ## How to use
 This is a maven project that should compile and run if the [run.mycode.basiclti](https://github.com/mrbdahlem/Basic-Lti) dependency is installed.
