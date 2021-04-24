@@ -1,4 +1,4 @@
-package run.mycode.basicltidemo.config;
+package run.mycode.ltioauthdemo.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

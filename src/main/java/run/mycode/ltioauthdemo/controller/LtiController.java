@@ -1,4 +1,4 @@
-package run.mycode.basicltidemo.controller;
+package run.mycode.ltioauthdemo.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

@@ -1,4 +1,4 @@
-package run.mycode.basicltidemo.persistence.model;
+package run.mycode.ltioauthdemo.persistence.model;
 
 import run.mycode.basiclti.authentication.LtiKey;
 

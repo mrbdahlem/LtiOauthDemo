@@ -1,4 +1,4 @@
-package run.mycode.basicltidemo.service;
+package run.mycode.ltioauthdemo.service;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Service;
 import run.mycode.basiclti.service.LtiKeyService;
 import run.mycode.basiclti.authentication.LtiKey;
-import run.mycode.basicltidemo.persistence.model.User;
+import run.mycode.ltioauthdemo.persistence.model.User;
 
 /**
  * A demo key service that generates 10 key/secret pairs and associated user
